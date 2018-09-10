@@ -1,0 +1,15 @@
+baseURL: "https://dfer.io/universidad-vs-trabajo/"
+languageCode: "es-es"
+title: "Universidad VS trabajo"
+theme: "hugo-theme-revealjs"
+params:
+    reveal_theme: black
+    revealjs:
+        history: true
+        center: true
+        height: 100%
+        width: 100%
+        slideNumber: true
+        transitionSpeed: 'fast'
+        autoPlayMedia: true
+        margin: 0.0
